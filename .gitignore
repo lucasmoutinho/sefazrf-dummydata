@@ -1,4 +1,6 @@
 data_struct.xlsx
 .~lock.data_struct.xlsx#
 
-Tabelas/*
+Tabelas/*.csv
+Tabelas/*.xlsx
+Tabelas/*.xlsx#
